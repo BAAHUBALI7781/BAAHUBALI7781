@@ -4,7 +4,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/divyansh-masiwal-3ba250188" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="divyansh-masiwal-3ba250188" height="30" width="40" /></a>
-<a href="https://fb.com/divyansh.masiwal.7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/facebook.svg" alt="divyansh.masiwal.7" height="30" width="40" /></a>
+<a href="https://fb.com/divyansh.masiwal.7" target="blank"><img align="center" src="https://i.pinimg.com/564x/b7/63/69/b763699fd1fa3bfb374442593ae642e1.jpg" alt="divyansh.masiwal.7" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/baahubali7781" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="baahubali7781" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/baahubali7781" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="baahubali7781" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/baahubali7781" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/leet-code.svg" alt="baahubali7781" height="30" width="40" /></a>
