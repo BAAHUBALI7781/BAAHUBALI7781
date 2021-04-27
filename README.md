@@ -3,11 +3,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/divyansh-masiwal-3ba250188" target="blank"><img align="center" src="https://www.nicepng.com/png/full/461-4616944_linkedin-logo-png-linked-in-icon-svg.png" alt="divyansh-masiwal-3ba250188" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/divyansh-masiwal-3ba250188" target="blank"><img align="center" src="https://www.nicepng.com/png/full/461-4616944_linkedin-logo-png-linked-in-icon-svg.png" alt="divyansh-masiwal-3ba250188" height="40" width="40" /></a>
 <a href="https://fb.com/divyansh.masiwal.7" target="blank"><img align="center" src="https://i.pinimg.com/564x/b7/63/69/b763699fd1fa3bfb374442593ae642e1.jpg" alt="divyansh.masiwal.7" height="40" width="40" /></a>
-<a href="https://www.codechef.com/users/baahubali7781" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="baahubali7781" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/baahubali7781" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="baahubali7781" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/baahubali7781" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/leet-code.svg" alt="baahubali7781" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/baahubali7781" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="baahubali7781" height="40" width="40" /></a>
+<a href="https://codeforces.com/profile/baahubali7781" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="baahubali7781" height="40" width="40" /></a>
+<a href="https://www.leetcode.com/baahubali7781" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/2389/PNG/512/leetcode_logo_icon_145113.png" alt="baahubali7781" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
