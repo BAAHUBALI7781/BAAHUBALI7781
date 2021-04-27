@@ -1,10 +1,4 @@
-### Hi there 👋 
-### Hello i am Divyansh Masiwal .  
-### I am currently a pre-final year Undergrad at IIESTS studying Information Technology . 
-### Passionate about solving problem through tech.
 
-<!--
-**BAAHUBALI7781/BAAHUBALI7781** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <h1 align="center">Hi 👋, I'm Divyansh Masiwal</h1>
 <h3 align="center">A passionate problem solver from India</h3>
 
